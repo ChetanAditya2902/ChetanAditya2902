@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/chetan-aditya-dasari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/aditya_2110/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/Chetan_Aditya_Dasari/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:chetanaditya.2110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -55,7 +55,7 @@
 ### 📊 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/aditya_2110/" target="_blank">
+  <a href="https://leetcode.com/u/Chetan_Aditya_Dasari/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/aditya_2110?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
@@ -98,5 +98,5 @@ A desktop event management application built with Java Swing, letting users crea
 ### 📫 Reach Me
 - 📧 chetanaditya.2110@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/chetan-aditya-dasari)
-- 🧩 [LeetCode](https://leetcode.com/u/aditya_2110/)
+- 🧩 [LeetCode](https://leetcode.com/u/Chetan_Aditya_Dasari/)
 - 📱 +91 93905 99210
