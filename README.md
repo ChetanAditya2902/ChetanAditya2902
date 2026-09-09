@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Chetan_Aditya_Dasari/" target="_blank">
-    <img src="https://leetcode.com/u/Chetan_Aditya_Dasari/?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Chetan_Aditya_Dasari?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -65,6 +65,7 @@
 ### 📌 Featured Projects
 
 **[SportPulse](#)** — Full-Stack Sports Platform
+*(Link coming soon)*
 A full-stack sports platform covering F1, Cricket, and Football, built with ReactJS, TypeScript, and a Java/Spring Boot backend. Designed modular microservices and PostgreSQL data models to support scalable data management across sports data, schedules, and statistics. Implemented JWT-based authentication and authorization to secure user registration, login, and protected resources. Containerized services with Docker and set up deployment workflows for AWS. Built following clean architecture principles with automated testing and an Agile development workflow, aiming for a maintainable, enterprise-style application rather than a one-off demo.
 
 **[Timetable_Generator](https://github.com/aditya697/Timetable_Generator)** — Python
