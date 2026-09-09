@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/chetan-aditya-dasari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Chetan_Aditya_Dasari/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:chetanaditya.2110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=aditya697&style=for-the-badge&color=2E9EF7" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ChetanAditya2902&style=for-the-badge&color=2E9EF7" alt="Profile views" />
 </p>
 
 </div>
@@ -97,30 +97,30 @@
 *(Link coming soon)*
 A full-stack sports platform covering F1, Cricket, and Football, built with ReactJS, TypeScript, and a Java/Spring Boot backend. Designed modular microservices and PostgreSQL data models to support scalable data management across sports data, schedules, and statistics. Implemented JWT-based authentication and authorization to secure user registration, login, and protected resources. Containerized services with Docker and set up deployment workflows for AWS. Built following clean architecture principles with automated testing and an Agile development workflow, aiming for a maintainable, enterprise-style application rather than a one-off demo.
 
-**[Timetable_Generator](https://github.com/aditya697/Timetable_Generator)** — Python
+**[Timetable_Generator](https://github.com/ChetanAditya2902/Timetable_Generator)** — Python
 A constraint-based scheduling engine that automatically generates conflict-free academic timetables. Models both hard constraints (faculty and classroom availability, no double-booking) and soft constraints (faculty preferences, balanced teaching workload) to produce schedules that satisfy institutional rules while minimizing conflicts. Uses Python data structures to efficiently represent and search through complex scheduling combinations, and supports CSV import/export so timetable data can be loaded from and shared back into existing academic workflows. Built and validated in collaboration with faculty to ensure the generated schedules matched real-world constraints, not just theoretical ones.
 
-**[Plant_Disease_Detection](https://github.com/aditya697/Plant_Disease_Detection)**
+**[Plant_Disease_Detection](https://github.com/ChetanAditya2902/Plant_Disease_Detection)**
 A computer vision project that classifies plant leaf images to detect signs of disease, aimed at supporting early diagnosis in agriculture. Takes an image of a leaf as input and predicts the disease category (or healthy status), with the goal of giving farmers or agronomists a fast, low-cost first-pass screening tool instead of relying solely on manual visual inspection. Built around an image classification pipeline — preprocessing leaf images, training a model to recognize disease patterns, and evaluating prediction accuracy against labeled examples.
 
-**[Skin_Disease_Detection](https://github.com/aditya697/Skin_Disease_Detection)** — Jupyter Notebook
+**[Skin_Disease_Detection](https://github.com/ChetanAditya2902/Skin_Disease_Detection)** — Jupyter Notebook
 A machine learning notebook applying computer vision techniques to classify skin conditions from image data. Explores an image-based diagnostic workflow similar in spirit to the plant disease project, but applied to a healthcare use case — preprocessing dermatological images, training a classification model, and evaluating how well it distinguishes between different skin conditions. Structured as a notebook to make the data exploration, model training, and evaluation steps transparent and reproducible.
 
-**[Real-Estate-Price-Prediction](https://github.com/aditya697/Real-Estate-Price-Prediction)** — Jupyter Notebook
+**[Real-Estate-Price-Prediction](https://github.com/ChetanAditya2902/Real-Estate-Price-Prediction)** — Jupyter Notebook
 A predictive modeling project estimating property prices from real estate data using regression techniques. Covers the typical ML workflow end-to-end: cleaning and exploring the housing dataset, engineering relevant features (location, size, amenities, etc.), training regression models to predict price, and evaluating model performance against held-out data. Written as a notebook to walk through the reasoning behind each modeling decision alongside the code.
 
-**[Event_Management_System](https://github.com/aditya697/Event_Management_System)** — Java
+**[Event_Management_System](https://github.com/ChetanAditya2902/Event_Management_System)** — Java
 A desktop event management application built with Java Swing, letting users create, organize, and manage events through a graphical interface. Covers core CRUD functionality for event records along with the UI/UX considerations of building a usable desktop application — window layouts, form validation, and state management — using core Java and the Swing toolkit rather than a web framework.
 
 ---
 
 ### 🔧 Other Projects
 
-- **[ContactManagementSystem](https://github.com/aditya697/ContactManagementSystem)** (Java) — Contact management application
-- **[ReactJs_ToDoList](https://github.com/aditya697/ReactJs_ToDoList)** (JavaScript) — To-do list app built with React
-- **[Password_Strength.github.io](https://github.com/aditya697/Password_Strength.github.io)** (HTML) — Password strength checker, hosted via GitHub Pages
-- **[CTF-WRITEUPS](https://github.com/aditya697/CTF-WRITEUPS)** & **[CTF_BOT](https://github.com/aditya697/CTF_BOT)** (Python) — Capture-the-flag writeups and automation from Amrita's Cybersecurity Team
-- **[Cryptography](https://github.com/aditya697/Cryptography)**, **[Forensics](https://github.com/aditya697/Forensics)**, **[Reverse-Engineering](https://github.com/aditya697/Reverse-Engineering)** — Security coursework and exercises
+- **[ContactManagementSystem](https://github.com/ChetanAditya2902/ContactManagementSystem)** (Java) — Contact management application
+- **[ReactJs_ToDoList](https://github.com/ChetanAditya2902/ReactJs_ToDoList)** (JavaScript) — To-do list app built with React
+- **[Password_Strength.github.io](https://github.com/ChetanAditya2902/Password_Strength.github.io)** (HTML) — Password strength checker, hosted via GitHub Pages
+- **[CTF-WRITEUPS](https://github.com/ChetanAditya2902/CTF-WRITEUPS)** & **[CTF_BOT](https://github.com/ChetanAditya2902/CTF_BOT)** (Python) — Capture-the-flag writeups and automation from Amrita's Cybersecurity Team
+- **[Cryptography](https://github.com/ChetanAditya2902/Cryptography)**, **[Forensics](https://github.com/ChetanAditya2902/Forensics)**, **[Reverse-Engineering](https://github.com/ChetanAditya2902/Reverse-Engineering)** — Security coursework and exercises
 - **ReactJs_Lab1–4** — React coursework labs
 
 ---
@@ -130,5 +130,8 @@ A desktop event management application built with Java Swing, letting users crea
 - 💼 [LinkedIn](https://linkedin.com/in/chetan-aditya-dasari)
 - 🧩 [LeetCode](https://leetcode.com/u/Chetan_Aditya_Dasari/)
 - 📱 +91 93905 99210
-![Snake animation](https://raw.githubusercontent.com/aditya697/aditya697/output/github-contribution-grid-snake.svg)
+
+<!--
+### 🐍 Contribution Snake (optional — requires GitHub Actions setup, see notes below)
+![Snake animation](https://raw.githubusercontent.com/ChetanAditya2902/ChetanAditya2902/output/github-contribution-grid-snake.svg)
 -->
