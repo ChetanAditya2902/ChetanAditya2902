@@ -60,15 +60,15 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChetanAditya2902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya697&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanAditya2902&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya697&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanAditya2902&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditya697&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChetanAditya2902&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
@@ -76,7 +76,7 @@
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya697&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanAditya2902&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
