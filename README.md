@@ -56,38 +56,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChetanAditya2902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanAditya2902&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Aditya-Dasari-Chetan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="200" src="https://leetcard.jacoblin.cool/Chetan_Aditya_Dasari?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanAditya2902&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChetanAditya2902&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanAditya2902&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-### 🧩 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/Chetan_Aditya_Dasari/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Chetan_Aditya_Dasari?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
 
 ---
 
