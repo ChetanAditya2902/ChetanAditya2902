@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Chetan_Aditya_Dasari/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/aditya_2110?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcode.com/u/Chetan_Aditya_Dasari/?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
