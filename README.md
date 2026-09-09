@@ -56,12 +56,13 @@
 
 ---
 
-### 📊 Stats
+### 🧩 LeetCode Stats
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Aditya-Dasari-Chetan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="200" src="https://leetcard.jacoblin.cool/Chetan_Aditya_Dasari?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/Chetan_Aditya_Dasari/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Chetan_Aditya_Dasari?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
