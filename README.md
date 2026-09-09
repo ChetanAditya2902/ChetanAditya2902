@@ -1,15 +1,11 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Chetan Aditya Dasari</h1>
+<h3 align="center">Software Engineer | Full-Stack & Enterprise Application Development</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chetan+Aditya+Dasari;Software+Engineer+%40+Signify+Innovation+Labs;Full-Stack+%7C+Java+%7C+React+%7C+Spring+Boot;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
-
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/chetan-aditya-dasari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Chetan_Aditya_Dasari/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:chetanaditya.2110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ChetanAditya2902&style=for-the-badge&color=2E9EF7" alt="Profile views" />
 </p>
-
-</div>
 
 ---
 
@@ -56,10 +52,11 @@
 
 ---
 
-### 🧩 LeetCode Stats
+### 📊 LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/Chetan_Aditya_Dasari/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Chetan_Aditya_Dasari?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
     <img src="https://leetcard.jacoblin.cool/Chetan_Aditya_Dasari?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
@@ -105,8 +102,3 @@ A desktop event management application built with Java Swing, letting users crea
 - 💼 [LinkedIn](https://linkedin.com/in/chetan-aditya-dasari)
 - 🧩 [LeetCode](https://leetcode.com/u/Chetan_Aditya_Dasari/)
 - 📱 +91 93905 99210
-
-<!--
-### 🐍 Contribution Snake (optional — requires GitHub Actions setup, see notes below)
-![Snake animation](https://raw.githubusercontent.com/ChetanAditya2902/ChetanAditya2902/output/github-contribution-grid-snake.svg)
--->
