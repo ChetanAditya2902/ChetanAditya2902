@@ -54,13 +54,35 @@
 
 ### 📌 Featured Projects
 
-**[SportPulse](https://github.com/aditya697) — Full-Stack Sports Platform**
+**[SportPulse](#)** — Full-Stack Sports Platform
 Full-stack platform for F1, Cricket, and Football using React, TypeScript, and Java/Spring Boot. Modular microservices, PostgreSQL data models, JWT auth, Dockerized services, GCP deployment.
+*(Link coming soon)*
 
-**[Timetable Generation](https://github.com/aditya697)**
+**[Timetable_Generator](https://github.com/aditya697/Timetable_Generator)** — Python
 Constraint-based scheduling engine generating conflict-free academic timetables, balancing faculty availability, workload, and preferences, with CSV import/export.
 
-*(Update the links above to point to the actual repo URLs once pinned.)*
+**[Plant_Disease_Detection](https://github.com/aditya697/Plant_Disease_Detection)**
+Image classification project to detect plant diseases from leaf images, helping automate early diagnosis for crop health.
+
+**[Skin_Disease_Detection](https://github.com/aditya697/Skin_Disease_Detection)** — Jupyter Notebook
+Machine learning notebook for classifying skin conditions from image data, applying computer vision techniques to a healthcare use case.
+
+**[Real-Estate-Price-Prediction](https://github.com/aditya697/Real-Estate-Price-Prediction)** — Jupyter Notebook
+Predictive model estimating property prices from real estate data using regression techniques.
+
+**[Event_Management_System](https://github.com/aditya697/Event_Management_System)** — Java
+Desktop event management application built with Java Swing.
+
+---
+
+### 🔧 Other Projects
+
+- **[ContactManagementSystem](https://github.com/aditya697/ContactManagementSystem)** (Java) — Contact management application
+- **[ReactJs_ToDoList](https://github.com/aditya697/ReactJs_ToDoList)** (JavaScript) — To-do list app built with React
+- **[Password_Strength.github.io](https://github.com/aditya697/Password_Strength.github.io)** (HTML) — Password strength checker, hosted via GitHub Pages
+- **[CTF-WRITEUPS](https://github.com/aditya697/CTF-WRITEUPS)** & **[CTF_BOT](https://github.com/aditya697/CTF_BOT)** (Python) — Capture-the-flag writeups and automation from Amrita's Cybersecurity Team
+- **[Cryptography](https://github.com/aditya697/Cryptography)**, **[Forensics](https://github.com/aditya697/Forensics)**, **[Reverse-Engineering](https://github.com/aditya697/Reverse-Engineering)** — Security coursework and exercises
+- **ReactJs_Lab1–4** — React coursework labs
 
 ---
 
